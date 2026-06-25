@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Pratigya Pundir
 
-<!--
-**pratigyapundir/pratigyapundir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Java Developer | Frontend Developer
 
-Here are some ideas to get you started:
+🌱 Currently pursuing Full Stack Java Development training at QSpiders, Noida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* Passionate about Web Development and Java Programming.
+* Skilled in Java, SQL, HTML, CSS, JavaScript, React.js, and Git/GitHub.
+* Interested in building responsive and user-friendly web applications.
+* Continuously learning new technologies and improving problem-solving skills.
+
+## 🛠️ Technical Skills
+
+* **Languages:** Java, JavaScript, SQL
+* **Frontend:** HTML5, CSS3, React.js,
+* **Database:** MySQL
+* **Tools:** Git, GitHub, VS Code
+* **Core Concepts:** OOP, Collections, JDBC
+
+## 📚 Currently Learning
+
+* Advanced Java
+* Spring Framework
+* Data Structures & Algorithms
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/pratigya-pundir-1a3362350
