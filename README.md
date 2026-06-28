@@ -28,3 +28,5 @@
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/pratigya-pundir-1a3362350
+* Leetcode:https://leetcode.com/u/pratigya0410/
+
