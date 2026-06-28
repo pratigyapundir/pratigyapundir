@@ -17,7 +17,7 @@
 * **Frontend:** HTML5, CSS3, React.js,
 * **Database:** MySQL
 * **Tools:** Git, GitHub, VS Code
-* **Core Concepts:** OOP, Collections, JDBC
+* **Core Concepts:** OOP
 
 ## 📚 Currently Learning
 
